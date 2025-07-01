@@ -32,6 +32,16 @@
 ## Postman
 - See `postman_collection.json` for example requests
 
+### Using the Postman Collection
+A ready-to-use Postman collection is provided in this repo as `postman_collection.json`.
+
+**How to use:**
+1. Open Postman.
+2. Click `Import` in the top left.
+3. Select the `postman_collection.json` file from this repository.
+4. The collection will appear in your workspace, with all endpoints pre-configured.
+5. Use the example requests to test authentication, file upload, client signup/verify/login, file listing, and secure download flows.
+
 ---
 
 ## Detailed Approach & Architecture
@@ -99,6 +109,10 @@ Below are example screenshots of the app in action:
 ![Swagger UI](screenshots/swagger-ui.png)
 ![Postman Collection](screenshots/postman-demo.png)
 
+### How to Add Your Own Screenshots
+1. Create a folder named `screenshots` in the `backend` directory.
+2. Take your screenshots (e.g., of the Swagger UI and Postman) and save them as `swagger-ui.png` and `postman-demo.png` in the `screenshots` folder.
+3. The images will automatically appear in the README as shown above.
 
 ---
 
