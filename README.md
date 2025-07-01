@@ -99,10 +99,6 @@ Below are example screenshots of the app in action:
 ![Swagger UI](screenshots/swagger-ui.png)
 ![Postman Collection](screenshots/postman-demo.png)
 
-### How to Add Your Own Screenshots
-1. Create a folder named `screenshots` in the `backend` directory.
-2. Take your screenshots (e.g., of the Swagger UI and Postman) and save them as `swagger-ui.png` and `postman-demo.png` in the `screenshots` folder.
-3. The images will automatically appear in the README as shown above.
 
 ---
 
